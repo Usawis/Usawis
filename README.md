@@ -1,5 +1,5 @@
-<h3 align="left">Hi 👋, My name is Wisdom Usa. A software engineer in the making whose interest is to solve real-world problems with technology and help make the world a great place to live.</h1>
-<h3 align="center">A passionate techie</h3>
+<h3 align="left">Hi 👋, My name is Wisdom Usa. A passionate techie and a software engineer in the making whose interest is to solve real-world problems with technology and help make the world a great place to live.</h1>
+
 
 <img align="right" alt="coding_gif" width="400" src="https://camo.githubusercontent.com/cae12fddd9d6982901d82580bdf321d81fb299141098ca1c2d4891870827bf17/68747470733a2f2f6d69726f2e6d656469756d2e636f6d2f6d61782f313336302f302a37513379765349765f7430696f4a2d5a2e676966">
 
@@ -22,6 +22,6 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=usawis&show_icons=true&locale=en&layout=compact" alt="usawis" /></p>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=usawis&show_icons=true&locale=en" alt="usawis" /></p>
+<p>&nbsp;<img align="right" src="https://github-readme-stats.vercel.app/api?username=usawis&show_icons=true&locale=en" alt="usawis" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=usawis&" alt="usawis" /></p>
